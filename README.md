@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kevin Morris
+# Daniel Brooks
 
 ### Staff AI/ML Engineer · Full-Stack Engineer
 
