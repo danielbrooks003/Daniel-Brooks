@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniel Brooks
+# Chris Lim
 
 ### Staff AI/ML Engineer · Full-Stack Engineer
 
